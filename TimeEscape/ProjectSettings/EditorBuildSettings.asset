@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: Assets/Scenes/Stage/MainScene.unity
+    guid: c39d3734f38a61745bf616ec6634e12f
+  - enabled: 0
+    path: Assets/Scenes/Stage/World_1/1-1.unity
+    guid: 6597c7ad4a2d64b43b02613f3e728ccc
+  - enabled: 1
+    path: Assets/Scenes/Stage/World_1/1-2.unity
+    guid: eddc1d0f53b2a54408ffacd5aed53bf5
+  - enabled: 0
+    path: Assets/Scenes/Stage/World_1/1-3.unity
+    guid: 31939958725591344bbc920205e53e33
+  - enabled: 0
+    path: Assets/Scenes/Stage/World_1/1-4.unity
+    guid: afc91c1247c580540b13de56f13fe87c
+  - enabled: 0
+    path: Assets/Scenes/Stage/World_2/2-1.unity
+    guid: d10c9d30e7257914da349c2bf0a3a3d4
+  - enabled: 0
+    path: Assets/Scenes/Stage/World_2/2-2.unity
+    guid: 1890069baf67dfb4483d0ecece1e78fe
+  - enabled: 0
+    path: Assets/Scenes/Stage/World_2/2-3.unity
+    guid: 44d632d095a4cf6418871a848f30be54
+  - enabled: 0
+    path: Assets/Scenes/Stage/World_3/3-1.unity
+    guid: 72ab38a1d188cd5449fb219d175c38d2
+  - enabled: 0
+    path: Assets/Scenes/Stage/World_3/3-2.unity
+    guid: 698a27a132c078f40894f6a132c7b685
+  - enabled: 0
+    path: Assets/Scenes/Stage/World_3/3-3.unity
+    guid: de57ab771dd7f1c4ba2b932a61e2c1e6
+  m_configObjects: {}
