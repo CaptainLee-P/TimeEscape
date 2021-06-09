@@ -46,10 +46,8 @@ ScriptsOnlyBuild:
     UnityEditor.Graphs.dll:
     - UnityEditor.Graphs.AnimationBlendTree.Graph
     - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
-    - UnityEditor.Graphs.AnimationStateMachine.AnyStateNode
     - UnityEditor.Graphs.AnimationStateMachine.Graph
     - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
-    - UnityEditor.Graphs.AnimationStateMachine.StateNode
     - UnityEditor.Graphs.AnimatorControllerTool
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
@@ -141,31 +139,31 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 3396}
     - Class: 114
-      Script: {instanceID: 3640}
+      Script: {instanceID: 3642}
     - Class: 114
-      Script: {instanceID: 3728}
+      Script: {instanceID: 3730}
     - Class: 114
-      Script: {instanceID: 3894}
+      Script: {instanceID: 3896}
     - Class: 114
-      Script: {instanceID: 3942}
+      Script: {instanceID: 3944}
     - Class: 114
-      Script: {instanceID: 4052}
+      Script: {instanceID: 4054}
     - Class: 114
-      Script: {instanceID: 4122}
+      Script: {instanceID: 4124}
     - Class: 114
-      Script: {instanceID: 4190}
+      Script: {instanceID: 4192}
     - Class: 114
-      Script: {instanceID: 4210}
+      Script: {instanceID: 4212}
     - Class: 114
-      Script: {instanceID: 4330}
+      Script: {instanceID: 4332}
     - Class: 114
-      Script: {instanceID: 4588}
+      Script: {instanceID: 4590}
     - Class: 114
-      Script: {instanceID: 4670}
+      Script: {instanceID: 4672}
     - Class: 114
-      Script: {instanceID: 4904}
+      Script: {instanceID: 4906}
     - Class: 114
-      Script: {instanceID: 5072}
+      Script: {instanceID: 5074}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -633,6 +631,12 @@ ScriptsOnlyBuild:
     className: PlayableTrack
   - hash:
       serializedVersion: 2
+      Hash: b3120b4a425703a2277959c5e2abd8f2
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ModernMan_AI
+  - hash:
+      serializedVersion: 2
       Hash: 3164bc883ff663a5cdb32d1ef7e7c0c5
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
@@ -1093,13 +1097,7 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: TMPro.Examples
     className: TMP_TextEventCheck
-  - hash:
-      serializedVersion: 2
-      Hash: b3120b4a425703a2277959c5e2abd8f2
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: ModernMan_AI
   platform: 5
   scenePathNames:
   - Assets/Scenes/Stage/World_1/1-2.unity
-  playerPath: D:/MIA/LastTT.exe
+  playerPath: D:/TimeEscape/1-2 TimeEscape/LastTT.exe
